@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliviaphmm
 - 👀 I’m interested in learning related technology concerns.
-- 🌱 I’m currently starting to learn IT. Such as Python language.
-- 📫 How to reach me yinniejung@gmail.com
+- 🌱 I’m currently Service Desk Analyst.
+- 📫 How to reach me oanhng.pham@gmail.com
 
 <!---
 oliviaphmm/oliviaphmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
